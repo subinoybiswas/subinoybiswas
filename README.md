@@ -17,9 +17,9 @@
 <img src="https://streak-stats.demolab.com?user=subinoybiswas&theme=dark&hide_border=true&border_radius=0" 
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subinoybiswas&theme=github_dark)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subinoybiswas&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subinoybiswas&theme=github_dark&utcOffset=8)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subinoybiswas&theme=github_dark"
+<img src= "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subinoybiswas&theme=github_dark"
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subinoybiswas&theme=github_dark&utcOffset=8"
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=modernlyindian)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
