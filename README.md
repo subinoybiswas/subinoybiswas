@@ -17,9 +17,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subinoybiswas&theme=github_dark)
 
 ## 🐦 Latest Tweet
-<p align="center">
-<img src="https://gtce.itsvg.in/api?username=modernlyindian&theme=transparent" 
-</p>
+
+![](https://gtce.itsvg.in/api?username=modernlyindian&theme=transparent)(https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
 
