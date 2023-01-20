@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subinoybiswas&theme=github_dark)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subinoybiswas&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subinoybiswas&theme=github_dark&utcOffset=+5:30)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subinoybiswas&theme=github_dark&utcOffset=5:30)
 
 ## 🐦 Latest Tweet
 <p align="center">
