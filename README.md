@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, This is Subinoy Biswas </h1>
 
-![Typing SVG align="center"](https://readme-typing-svg.demolab.com?font=&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+and+Science+Lover+!;Building+DevDotCom)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+and+Science+Lover+!;Building+DevDotCom)
 
 
 # 💫 About Me:
@@ -16,7 +16,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=subinoybiswas&theme=onedark)](https://github.com/subinoybiswas/github-profile-trophy)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=subinoybiswas&theme=dark&hide_border=false)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subinoybiswas&theme=github_dark)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subinoybiswas&theme=github_dark)
+![align="center"](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subinoybiswas&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subinoybiswas&theme=github_dark&utcOffset=8)
 
 ## 🐦 Latest Tweet
