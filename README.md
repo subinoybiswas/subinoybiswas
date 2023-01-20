@@ -18,7 +18,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subinoybiswas&theme=github_dark&utcOffset=8)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=modernlyindian)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=modernlyindian&theme=transparent)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 
