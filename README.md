@@ -18,7 +18,7 @@
 
 ## 🐦 Latest Tweet
 
-![](https://gtce.itsvg.in/api?username=modernlyindian&theme=transparent)(https://github.com/VishwaGauravIn/github-twitter-card-embed)
+![]{(https://gtce.itsvg.in/api?username=modernlyindian&theme=transparent)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
 
