@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, This is Subinoy Biswas </h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+and+Science+Lover+!;Project+Admin+of+SWOC'23;Building+DevDotCom)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+and+Science+Lover+!;Building+DevDotCom)
 
 
 # 💫 About Me:
