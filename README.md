@@ -10,7 +10,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biswas.subinoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heysubinoy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/modernlyindian) 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,gcp,c,html,discord,git,github,visualstudio,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,gcp,c,html,discord,git,github,vscode,js)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subinoybiswas&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subinoybiswas&theme=github_dark)
