@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 Currently pursuing BTech CSE❤️<br><br>🌱 In Love with Python 😊<br><br>🔍Want to explore Rust and Web Assembly✨<br><br>
+🔭 Currently pursuing BTech CSE❤️<br><br>🌱 Aspiring Node Developer😊<br><br>🔍Freelance Technical Writer✨<br><br>
 
 
 ## 🌐 Socials:
