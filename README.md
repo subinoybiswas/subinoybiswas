@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-<a href=”https://www.linkedin.com/in/heysubinoy/"><img align=”left” src=”https://img.icons8.com/color/100/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heysubinoy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/modernlyindian) 
+[![LinkedIn](https://img.icons8.com/color/100/linkedin.png)](https://linkedin.com/in/heysubinoy) [![Twitter](https://img.icons8.com/color/48/twitter--v1.png)](https://twitter.com/modernlyindian) 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,gcp,c,cpp,nodejs,html,css,js,git,github,vscode)](https://skillicons.dev)
 # 📊 GitHub Stats:
