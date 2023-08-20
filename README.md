@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 Currently pursuing BTech CSE❤️<br><br>🌱 Aspiring Node Developer😊<br><br>🔍Freelance Technical Writer✨<br><br>
+🔭 Currently pursuing BTech CSE❤️<br><br>🌱 Nodejs Developer😊<br><br>🔍Freelance Technical Writer✨<br><br>
 
 
 ## 🌐 Socials:
