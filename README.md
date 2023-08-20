@@ -1,6 +1,10 @@
-<h1 align="center">Hey 👋, Subinoy this side </h1>
+<h1 align="center">Hey 👋, Subinoy this side! </h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Building+DevDotCom;Freelance+Technical+Writer!)
+I'm a second-year Computer Science student driven by a fervent passion for technology. My sights are set on becoming a proficient Node.js Developer, leveraging my solid Web Development foundation. With two completed projects under my belt, I'm dedicated to practical growth. 
+
+My proactive spirit extends beyond coding—I've revitalized my college coding club and founded [DevDotCom](https://linktr.ee/devdotcom), a thriving 500-member strong developer community. I foster growth, organize events, and competitions. 
+
+I also thrive as a Technical Writer. As a Freelance Technical Writer, I transform complex concepts into digestible content, bridging development and communication. Enthralled by Cloud and Web Development, I'm on an unending quest to carve my niche in tech's dynamic realm.
 
 
 # 💫 About Me:
