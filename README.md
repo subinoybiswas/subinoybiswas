@@ -11,7 +11,7 @@ I also thrive as a Technical Writer. As a Freelance Technical Writer, I transfor
 🔭 Currently pursuing BTech CSE <br><br>🌱 Nodejs Developer <br><br>🔨 Building [DevDotCom](https://linktr.ee/devdotcom)<br><br> 🔍Freelance Technical Writer<br><br>⏰ Winner of [StatusCode0](https://devfolio.co/statuscode0/dashboard) <br><br>
 
 # 🌐 Socials:
-[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/heysubinoy) [![X](https://img.icons8.com/ios/50/000000/twitterx.png)](https://twitter.com/heysubinoy) [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/biswas.subinoy)
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/heysubinoy) [![X](https://img.icons8.com/color/48/twitter--v1.png)](https://twitter.com/heysubinoy) [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/biswas.subinoy)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,gcp,c,cpp,nodejs,html,css,js,git,github,vscode)](https://skillicons.dev)
