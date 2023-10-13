@@ -17,6 +17,7 @@ I also thrive as a Technical Writer. As a Freelance Technical Writer, I transfor
 [![My Skills](https://skillicons.dev/icons?i=py,gcp,c,cpp,nodejs,html,css,js,git,github,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
+[![subinoybiswas's GitHub | Stats](https://stats.quine.sh/subinoybiswas/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=subinoybiswas)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subinoybiswas&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subinoybiswas&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subinoybiswas&theme=github_dark)
