@@ -14,7 +14,7 @@ I also thrive as a Technical Writer. As a Freelance Technical Writer, I transfor
 [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/heysubinoy) [![X](https://img.icons8.com/color/48/twitter--v1.png)](https://twitter.com/heysubinoy) [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/biswas.subinoy)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,gcp,c,cpp,nodejs,html,css,js,git,github,vscode,react,nextjs,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,gcp,c,cpp,nodejs,html,css,js,git,github,vscode,react,nextjs,flask,aws,threejs,postgres,mongodb,firestore)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 [![subinoybiswas's GitHub | Stats](https://stats.quine.sh/subinoybiswas/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=subinoybiswas)
