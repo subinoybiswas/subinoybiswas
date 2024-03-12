@@ -1,20 +1,22 @@
 <h1 align="center">Hey 👋, Subinoy this side! </h1>
 
-I'm a second-year Computer Science student driven by a fervent passion for technology. My sights are set on becoming a proficient Node.js Developer, leveraging my solid Web Development foundation. With two completed projects under my belt, I'm dedicated to practical growth. Enthralled by Cloud and Web Development, I'm on an unending quest to carve my niche in tech's dynamic realm.
+I'm Subinoy Biswas, a second-year Computer Science student fueled by my passion for technology. My ambition? To master Fullstack Development, capitalizing on my foundation in Web Development. My fascination with Cloud and Web Development knows no bounds—I'm constantly seeking to carve my niche in tech's ever-evolving landscape.
 
-My proactive spirit extends beyond coding—I've revitalized my college coding club and founded [DevDotCom](https://linktr.ee/devdotcom), a thriving 1000-member+   strong developer community. I foster growth, organize events, and competitions. 
+Beyond Web Development, I'm captivated by Machine Learning, particularly Generative AI, where I love to explore its endless possibilities. Pushing the boundaries of websites excites me—I enjoy integrating elements like 3D Models and ML models directly into web platforms.
 
-I also thrive as a Technical Writer. As a Freelance Technical Writer, I transform complex concepts into digestible content, bridging development and communication. 
+But my journey doesn't stop at coding. I've taken the initiative to rejuvenate my college coding club and establish DevDotCom, a vibrant community boasting over a thousand members. Here, I nurture growth, organize events, and foster healthy competition.
+
+Additionally, I thrive as a Technical Writer. In my freelance capacity, I specialize in translating intricate concepts into easily understandable content, bridging the gap between development and communication. Let's connect and embark on this exciting journey together! 
 
 
 # 💫 About Me:
-🔭 Currently pursuing BTech CSE <br><br>🌱 Nodejs Developer <br><br>🔨 Building [DevDotCom](https://linktr.ee/devdotcom)<br><br> 🔍Freelance Technical Writer<br><br>⏰ Winner of [StatusCode0(MLH Hackathon)](https://devfolio.co/statuscode0/dashboard) <br><br>
+🔭 Fullstack Developer <br><br>Pursuing BTech CSE <br><br>🔨 Building [DevDotCom](https://linktr.ee/devdotcom)<br><br> 🔍Freelance Technical Writer<br><br>⏰ Winner of [StatusCode0(MLH Hackathon)](https://devfolio.co/statuscode0/dashboard) <br><br>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/heysubinoy) [![X](https://img.icons8.com/color/48/twitter--v1.png)](https://twitter.com/heysubinoy) [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/biswas.subinoy)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flask,aws,threejs,postgres,mongodb,firebase,python,gcp,c,cpp,nodejs,html,css,js,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,aws,typescript,javascript,threejs,flask,postgres,mongodb,firebase,python,gcp,c,cpp,html,css,git,github,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 [![subinoybiswas's GitHub | Stats](https://stats.quine.sh/subinoybiswas/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=subinoybiswas)
