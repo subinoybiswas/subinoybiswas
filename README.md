@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, Subinoy this side! </h1>
 A 20 year old, figuring out life(●'◡'●)..
+
 # 💫 About Me:
 - 💻 Full-Stack Developer @ [PlayTheory Labs](https://playtheory.xyz)
 - 🏗️ Founder @ [DevDotCom](https://www.devdotcom.tech/)
