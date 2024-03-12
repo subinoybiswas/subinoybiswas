@@ -2,7 +2,7 @@
 
 I'm a second-year Computer Science student driven by a fervent passion for technology. My sights are set on becoming a proficient Node.js Developer, leveraging my solid Web Development foundation. With two completed projects under my belt, I'm dedicated to practical growth. Enthralled by Cloud and Web Development, I'm on an unending quest to carve my niche in tech's dynamic realm.
 
-My proactive spirit extends beyond coding—I've revitalized my college coding club and founded [DevDotCom](https://linktr.ee/devdotcom), a thriving 500-member strong developer community. I foster growth, organize events, and competitions. 
+My proactive spirit extends beyond coding—I've revitalized my college coding club and founded [DevDotCom](https://linktr.ee/devdotcom), a thriving 1000-member+   strong developer community. I foster growth, organize events, and competitions. 
 
 I also thrive as a Technical Writer. As a Freelance Technical Writer, I transform complex concepts into digestible content, bridging development and communication. 
 
@@ -14,7 +14,7 @@ I also thrive as a Technical Writer. As a Freelance Technical Writer, I transfor
 [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/heysubinoy) [![X](https://img.icons8.com/color/48/twitter--v1.png)](https://twitter.com/heysubinoy) [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/biswas.subinoy)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flask,aws,threejs,postgres,mongodb,firestore,python,gcp,c,cpp,nodejs,html,css,js,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flask,aws,threejs,postgres,mongodb,firebase,python,gcp,c,cpp,nodejs,html,css,js,git,github,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 [![subinoybiswas's GitHub | Stats](https://stats.quine.sh/subinoybiswas/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=subinoybiswas)
