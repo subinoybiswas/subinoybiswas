@@ -18,6 +18,7 @@ A 20 year old, figuring out life(●'◡'●)..
 
 # 🌐 Socials:
 [![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://linkedin.com/in/heysubinoy) [![X](https://img.icons8.com/color/48/twitter--v1.png)](https://twitter.com/heysubinoy) [![Instagram](https://img.icons8.com/fluency/48/instagram-new.png)](https://instagram.com/biswas.subinoy)
+...[more](https://linktr.ee/heysubinoy)
 
 # 📊 GitHub Stats:
 [![subinoybiswas's GitHub | Stats](https://stats.quine.sh/subinoybiswas/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=subinoybiswas)
