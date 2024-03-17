@@ -1,6 +1,6 @@
-[GitHub Banner](banner/banner.png)
-<h1 align="center">Hey 👋, Subinoy this side! </h1>
-A 20 year old, figuring out life(●'◡'●)..
+![GitHub Banner](banner.png)
+
+
 
 # 💫 About Me:
 - 💻 Full-Stack Developer @ [PlayTheory Labs](https://playtheory.xyz)
@@ -23,7 +23,6 @@ A 20 year old, figuring out life(●'◡'●)..
 [...more](https://linktr.ee/heysubinoy)
 
 # 📊 GitHub Stats:
-[![subinoybiswas's GitHub | Stats](https://stats.quine.sh/subinoybiswas/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=subinoybiswas)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subinoybiswas&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subinoybiswas&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subinoybiswas&theme=github_dark)
