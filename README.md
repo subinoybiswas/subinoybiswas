@@ -1,3 +1,4 @@
+[GitHub Banner](banner/banner.png)
 <h1 align="center">Hey 👋, Subinoy this side! </h1>
 A 20 year old, figuring out life(●'◡'●)..
 
