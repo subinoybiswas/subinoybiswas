@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-- 💻 Full-Stack Developer @ [PlayTheory Labs](https://playtheory.xyz)
+- 💻 Ex-Fullstack Intern @ [PlayTheory Labs](https://playtheory.xyz)
 - 🏗️ Founder @ [DevDotCom](https://www.devdotcom.tech/)
 - 👥 Core Team Member @ [GDG Kolkata](https://gdg.community.dev/gdg-kolkata/)
 - 🧑‍🎓 Student of Computer Science and Enginnering
