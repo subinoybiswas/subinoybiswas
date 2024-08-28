@@ -28,4 +28,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subinoybiswas&theme=github_dark)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,aws,typescript,javascript,go,threejs,flask,postgres,mongodb,firebase,python,gcp,c,cpp,html,css,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,go,typescript,reactnative,nodejs,aws,docker,javascript,threejs,flask,postgres,mongodb,firebase,python,gcp,c,cpp,html,css,git,github,vscode)](https://skillicons.dev)
