@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 - 🧾 SDE Intern @ [Juspay](https://juspay.in)
-- 🧑‍🔬 Ex Forward Deployed Enginner @ [Accuknox](https://accuknox.com/)
+- 🧑‍🔬 Ex Forward Deployed Enginner(Trainee) @ [Accuknox](https://accuknox.com/)
 - 🔨 Ex-Intern @ [Heizen (Formerly OpenGig)](https://heizen.work/)
 - 🚀 Ex-Intern @ [SAC, ISRO](https://www.sac.gov.in/Vyom/)
 - 🏢 Ex-Intern @ [Invisible Studios](https://invisible.af)
