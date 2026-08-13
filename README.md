@@ -16,7 +16,7 @@
 - 🥇 Winner of [StatusCode0(MLH Hackathon)](https://devfolio.co/statuscode0/dashboard)
 
 # 🤹‍♂️ Skills:
-- Typescript, Javascript, Go, Python, C++, C
+- Typescript, Go, Python, C++, Haskell
 - Nodejs, Flask, NestJs, Gin 
 - Nextjs, Reactjs, React Native, Threejs
 - Supabase, MongoDB, FireStore, PostgreSQL, MySQL
@@ -29,9 +29,9 @@
 [...more](https://linktr.ee/heysubinoy)
 
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subinoybiswas&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subinoybiswas&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subinoybiswas&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heysubinoy&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heysubinoy&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heysubinoy&theme=github_dark)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,go,typescript,vercel,bun,linux,mongodb,nodejs,aws,docker,javascript,threejs,flask,postgres,mongodb,firebase,python,gcp,c,cpp,html,css,git,github,vscode)](https://skillicons.dev)
